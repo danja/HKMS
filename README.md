@@ -28,7 +28,7 @@ The reason this even remotely possible was that all of these things could share 
 
 ### The Data Model
 
-_A little personal history for context. I'd been interested in AI since seeing [2001 A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)) as a kid, reading Asimov books. I got into electronics and computing as a teenager.\_ _My first computer was a [Commodore PET](https://en.wikipedia.org/wiki/Commodore_PET) onto which I once typed in a Tick-Tack-Toe AI from a magazine. Years later, at University, I took modules in neural nets and expert systems._ _Later still, I got online and had a day job at a college that included looking after the network, user support, database admin etc. But it did give me machines to play with_
+_A little personal history for context. I'd been interested in AI since seeing_ [2001 A Space Odyssey](<https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)>) _as a kid, reading Asimov books. I got into electronics and computing as a teenager._ _My first computer was a [Commodore PET](https://en.wikipedia.org/wiki/Commodore_PET) onto which I once typed in a Tick-Tack-Toe AI from a magazine. Years later, at University, I took modules in neural nets and expert systems._ _Later still, I got online and had a day job at a college that included looking after the network, user support, database admin etc. But it did give me machines to play with_
 
 _Around 1999 I stumbled upon [RDF](https://www.w3.org/RDF/). This seemed to connect the dots between the fun AI bits and the Web. At the time I was clueless at both ends, but the rdf-dev was very friendly, and I gradually picked bits up._
 
