@@ -90,6 +90,8 @@ too generic
 demos :
 https://hyperdata.it/sparql-diamonds/
 
+link scraper - PWA
+
 markdown
 
 mobile
