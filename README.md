@@ -87,6 +87,9 @@ too generic
 
 [SPARQL Diamonds](https://github.com/danja/sparql-diamonds)
 
+demos :
+https://hyperdata.it/sparql-diamonds/
+
 markdown
 
 mobile
