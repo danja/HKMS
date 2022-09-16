@@ -2,6 +2,8 @@
 
 **_celebrating 20 years of vapourware_**
 
+[doc in progress 2022-09-16]
+
 Hyperdata Knowledge Management System (HKMS) is the current working title of a personal project I've been working on for a long time.
 
 Skip down to '**Components**' if you wish to avoid the ramblings of an old man.
@@ -40,6 +42,22 @@ Looking back at the list I had for Ideagraph : ideas, projects, blogs, documents
 
 ### Views
 
+RDF provides a model that can represent pretty much anything. It has various serialization formats so the data can be put in text. But like CSV files, this isn't very user-friendly.
+
+So I wanted to make visualizing and editing RDF a lot more user friendly. In Ideagraph I had three main ways of looking at the RDF:
+
+- text - view source of a particular bit of the RDF, or view/edit a text description that was a property of a node
+- tree - a collapsible tree view, similar to those used in file explorers (loops would just keep expanding)
+- graph - a node & arc nextwork view
+
+I can't remember how far I'd got with implementation, but I also had more dedicated views for :
+
+- Project - a view structure around a [vocab](https://hyperdata.it/xmlns/project/index.htm) designed for describing projects
+- Channels - for RSS feeds
+- Vocabs - for RDFS
+- Commands - an interpreter (I forget what I used for this, may have been an ad hoc DSL or some standard language interpreter)
+- Settings
+
 ## Lessons
 
 scope drift
@@ -74,3 +92,5 @@ markdown
 mobile
 
 ## Current (and Future) Directions
+
+Bookmark manager : the one in eg. Chrome browser is absolutely hopeless
