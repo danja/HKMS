@@ -8,11 +8,11 @@
 
 ## Electronics
 
+* Vactrols
 * Echo unit
 * Chaotic VCO
 
 ## Misc
 
-Diced - manual
-
-LV2 plugin
+* Diced - manual
+* LV2 plugin
