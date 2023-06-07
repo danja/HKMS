@@ -6,6 +6,8 @@
 
 ## ELFQuake
 
+* Glossalalai
+
 ## Electronics
 
 * Vactrols
@@ -15,4 +17,10 @@
 ## Misc
 
 * Diced - manual
+
+* Solid - https://www.inrupt.com/
+
 * LV2 plugin
+* Water memory experiment
+* Analog Computer
+
