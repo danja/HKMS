@@ -1,3 +1,9 @@
+Video
+Blog post
+Postcast
+Slides
+One-page printable
+
 
 My time : 50% working on the content, 50% on the media
 
@@ -19,7 +25,7 @@ Shorts - at least 2 a week
 
 
 Patreon mostly a tip jar.
-Patreon subscribers can direct where I go in terms of content and style and get video responses to questions.
+Patreon subscribers can direct where I go in terms of content and style and get video responses to questions. (Is motivation for me as well)
 Merch raffles.
 
 Bootstrap it with people I know, $1 a month.

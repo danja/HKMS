@@ -1,8 +1,13 @@
 # Getting Things Diced
 
-The purpose of this kit is to help you carry out tasks you have getting around to by disrupting procrastination. The idea is that using the kit is a little fun, so the barrier to starting actions is lessened. Then a task is chosen for you, avoiding the mental block of deciding what can do. Finally a little extra motivation is given because the kit has instructed you to carry out the task.
+The purpose of this kit is to help you carry out tasks you have trouble getting around to overwhelmed to by disrupting procrastination. The idea is that using the kit is a little fun, so the barrier to starting actions is lessened. Then a task is chosen for you, avoiding the mental block of deciding what can do. Finally a little extra motivation is given because the kit has instructed you to carry out the task.
 
-Because the value of the sum of two dice has varying probability, it is possible to make higher priority tasks more probable, while including the chance of being told to do a fun activity. It is very probable that all the tasks will be carried out *eventually*.
+The value of the sum of two dice has varying probability, eg. 7 is rolled more often that 12 because :
+
+7 = (3 + 4) = (2 + 5) = (1 + 6)
+12 = (6 + 6)
+
+ So it is possible to make higher priority tasks more probable, while including the chance of being told to do a fun activity. It is very probable that all the tasks will be carried out *eventually*.
 
 This is not intended to be a strict procedure, just a way of nudging yourself in the right direction. Feel free to ignore the rules or adapt them as they better suit your preferences.
 
@@ -18,7 +23,9 @@ This is not intended to be a strict procedure, just a way of nudging yourself in
 
 * A whiteboard marker
 * A cloth to erase whiteboard
-* A bag containing a par of dice
+* A bag containing a pair of dice
+
+- plus 8 little magnets
 
 ## Procedure
 

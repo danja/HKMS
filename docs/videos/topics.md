@@ -4,6 +4,8 @@
 * SPARQL
 * NLP
 
+* RIF
+
 ## ELFQuake
 
 * Glossalalai
@@ -14,6 +16,14 @@
 * Echo unit
 * Chaotic VCO
 
+## About this Instrument
+
+30 mins, get really technical - history, acoustics, construction etc.
+
+## About this Instrument
+
+30 mins, get really technical - history, acoustics, construction etc.
+
 ## Misc
 
 * Diced - manual
@@ -23,4 +33,8 @@
 * LV2 plugin
 * Water memory experiment
 * Analog Computer
+* SparqlPress2
+
+* tau prolog + RIF
+* nools + RIF
 
