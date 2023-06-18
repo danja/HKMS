@@ -15,6 +15,7 @@
 * Vactrols
 * Echo unit
 * Chaotic VCO
+* BPM monitor/tuner
 
 ## About this Instrument
 

@@ -25,7 +25,7 @@ Shorts - at least 2 a week
 
 
 Patreon mostly a tip jar.
-Patreon subscribers can direct where I go in terms of content and style and get video responses to questions. (Is motivation for me as well)
+Patreon subscribers can direct where I go in terms of content and style and get video responses to questions. Priority bug fixes and feature requests. (Is motivation for me as well)
 Merch raffles.
 
 Bootstrap it with people I know, $1 a month.
