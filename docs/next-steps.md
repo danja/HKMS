@@ -1,8 +1,14 @@
-## ToDo
+# ToDo
 
 ## HKMS
 
 * Describe HKMS in new store, attach to apps
+
+* get NewsMonitor running
+
+## Foolicious
+
+* basic link list
 
 ## Trellis
 
@@ -19,7 +25,7 @@ add nav bar?
 
 ---
 
-## Done
+# Done
 
 * sort out symlinks!!!
 * NAVBAR on hkms/
