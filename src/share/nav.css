@@ -1,9 +1,10 @@
 nav {
     font-family: courier, courier new, serif;
     font-weight: bold;
+    color: white;
 }
 
-ul {
+nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -13,12 +14,12 @@ ul {
     border-style: ridge;
 }
 
-li {
+nav li {
     float: left;
     border-style: groove;
 }
 
-li a {
+nav li a {
     display: block;
     color: white;
     text-align: center;
@@ -27,10 +28,10 @@ li a {
 }
 
 /* Change the link color to #111 (black) on hover */
-li a:hover {
+nav li a:hover {
     background-color: #111;
 }
 
-.active {
+nav .active {
     background-color: #4CAF50;
 }
