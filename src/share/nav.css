@@ -1,20 +1,28 @@
+nav {
+    font-family: courier, courier new, serif;
+    font-weight: bold;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    /* background-color: #333; */
+    background-color: #666;
+    border-style: ridge;
 }
 
 li {
     float: left;
+    border-style: groove;
 }
 
 li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 5px 16px;
     text-decoration: none;
 }
 
