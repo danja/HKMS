@@ -1,4 +1,26 @@
-sort out symlinks!!!
+## ToDo
 
-NAVBAR on hkms/
+## HKMS
+
+* Describe HKMS in new store, attach to apps
+
+## Trellis
+
+* Trellis CSS - especially mobile
+
+## Turtle Editor
+
+* responsive - CSS
+* Attach to store
+
+## Jupyter
+
+add nav bar?
+
+---
+
+## Done
+
+* sort out symlinks!!!
+* NAVBAR on hkms/
 
