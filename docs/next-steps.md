@@ -4,7 +4,15 @@
 
 * Describe HKMS in new store, attach to apps
 
+* Describe ELFQuake
+
 * get NewsMonitor running
+
+* Solid
+
+## Gloss
+
+* index
 
 ## Foolicious
 
