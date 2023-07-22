@@ -10,6 +10,18 @@
 
 * Solid
 
+## FooWiki
+
+* refactor!
+
+    * remove jQuery
+    * flexbox CSS
+    * native templating
+
+There's repetition in the method calling flow, must be refactorable, pass function names
+
+https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
+
 ## Gloss
 
 * index
