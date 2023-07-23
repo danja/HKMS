@@ -2,6 +2,8 @@
 
 ## HKMS
 
+* Index/explanation page
+
 * Describe HKMS in new store, attach to apps
 
 * Describe ELFQuake
@@ -14,15 +16,23 @@
 
 * refactor!
 
-    * remove jQuery
-    * flexbox CSS
-    * native templating
-
-    codemirror
-
 There's repetition in the method calling flow, must be refactorable, pass function names
 
 https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
+
+* remove jQuery
+
+Template literals 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+https://dev.to/rfornal/-replacing-jquery-with-vanilla-javascript-1k2g
+https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
+
+    * flexbox CSS
+    * native templating
+
+    * codemirror (y.js)
+
+
 
 ## Gloss
 
