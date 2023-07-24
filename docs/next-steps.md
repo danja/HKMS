@@ -2,6 +2,8 @@
 
 ## HKMS
 
+* Icon
+
 * Index/explanation page
 
 * Describe HKMS in new store, attach to apps
