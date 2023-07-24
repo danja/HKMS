@@ -32,7 +32,7 @@ https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
 
     * codemirror (y.js)
 
-
+* put navbar in other pages
 
 ## Gloss
 
@@ -41,6 +41,10 @@ https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
 render to PDF
 
 next & previous
+
+https://hyperdata.it/gloss
+
+
 
 ## Foolicious
 

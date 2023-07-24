@@ -2,7 +2,9 @@
 
 **_celebrating 20 years of vapourware_**
 
-[doc in progress 2022-09-16]
+I'm currently rearranging things. This is actually the history.
+
+Current activity is at : https://hyperdata.it/hkms/
 
 Hyperdata Knowledge Management System (HKMS) is the current working title of a personal project I've been working on for a long time.
 

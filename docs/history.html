@@ -1,0 +1,144 @@
+<h1 id="hyperdata-knowledge-management-system">Hyperdata Knowledge
+Management System</h1>
+<p><strong><em>celebrating 20 years of vapourware</em></strong></p>
+<p>I'm currently rearranging things. This is actually the history.</p>
+<p>Current activity is at : <a
+href="https://hyperdata.it/hkms/">https://hyperdata.it/hkms/</a></p>
+<p>Hyperdata Knowledge Management System (HKMS) is the current working
+title of a personal project I've been working on for a long time.</p>
+<p>Skip down to '<strong>Components</strong>' if you wish to avoid the
+ramblings of an old man.</p>
+<h2 id="wayback">WayBack</h2>
+<p>HKMS's first incarnation was <a
+href="https://web.archive.org/web/20040321215405/http://www.ideagraph.net/">Ideagraph</a>,
+intended as a <em>Personal Knowledge Management System</em>.</p>
+<p><img
+src="https://github.com/danja/HKMS/blob/main/images/ideagraph-1.gif?raw=true"
+alt="screenshot" /></p>
+<p>Its purpose was :</p>
+<ul>
+<li>idea brainstorming and development</li>
+<li>idea communication</li>
+<li>knowledge sharing</li>
+<li>project planning</li>
+<li>document organization</li>
+<li>semantic web blogging</li>
+<li>syndicated news reading, processing and republishing</li>
+</ul>
+<p>That might sound like an outrageously wide scope, especially for a
+lone coder. It was, but it was surprising how far I got in a relatively
+short period of time as an unexceptional coder. The nearest it got to
+being finished was the desktop Java app in the screenshot above (<a
+href="https://web.archive.org/web/20040402085138/http://www.ideagraph.net/2003-06/screenshots.htm">other
+screenshots</a>).</p>
+<p>The reason this even remotely possible was that all of these things
+could share many common components. Critically, they could share the
+same data model.</p>
+<h3 id="the-data-model">The Data Model</h3>
+<p><em>A little personal history for context. I'd been interested in AI
+since seeing</em> <a
+href="https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)">2001 A
+Space Odyssey</a> <em>as a kid, reading Asimov books. I got into
+electronics and computing as a teenager.</em> <em>My first computer was
+a <a href="https://en.wikipedia.org/wiki/Commodore_PET">Commodore
+PET</a> onto which I once typed in a Tick-Tack-Toe AI from a magazine.
+Years later, at University, I took modules in neural nets and expert
+systems.</em> <em>Later still, I got online and had a day job at a
+college that included looking after the network, user support, database
+admin etc. But it did give me machines to play with</em></p>
+<p><em>Around 1999 I stumbled upon. This seemed to connect the dots
+between the interesting AI bits and the Web. At the time I was clueless
+at both ends, but the rdf-dev mailing list was very friendly, and I
+gradually picked bits up.</em></p>
+<p>The <em>Resource Description Framework</em> <a
+href="https://www.w3.org/RDF/">RDF</a> is a set of models and syntaxes
+for expressing arbitrary data in a form that is natively compatible with
+the Web. A clue is in the name : <strong>Resource</strong> in this
+context is the same as the <strong>R</strong> in <a
+href="https://en.wikipedia.org/wiki/URL">URL</a>. A resource is simply
+anything that you can identify. A real-world thing, a concept, or more
+typically on the Web, a document. The neat trick that RDF brings to the
+table is that you can also identify relationships between things and
+treat them as resources in their own rights.</p>
+<p>Given a model that can identify things and describe relationships
+between them, you can build networks of information, more commonly known
+as <strong>knowledge graphs</strong>. These are versatile enough to be
+able to express pretty much any can of data you might wish to use on a
+computer. The practicalities of this can get a bit involved depending on
+what you're trying to do, but conceptually it's trivial.</p>
+<p>Looking back at the list I had for Ideagraph : ideas, projects,
+blogs, documents... - all things expressible in RDF. Together, standard
+Java (using Swing for UI) and the nascent <a
+href="https://jena.apache.org/">Apache Jena</a> framework had all the
+tools I needed to code something up.</p>
+<h3 id="views">Views</h3>
+<p>RDF provides a model that can represent pretty much anything. It has
+various serialization formats so the data can be put in text. But like
+CSV files, this isn't very user-friendly.</p>
+<p>So I wanted to make visualizing and editing RDF a lot more user
+friendly. In Ideagraph I had three main ways of looking at the RDF:</p>
+<ul>
+<li>text - view source of a particular bit of the RDF, or view/edit a
+text description that was a property of a node</li>
+<li>tree - a collapsible tree view, similar to those used in file
+explorers (loops would just keep expanding)</li>
+<li>graph - a node &amp; arc nextwork view</li>
+</ul>
+<p>I can't remember how far I'd got with implementation, but I also had
+more dedicated views for :</p>
+<ul>
+<li>Project - a view structure around a <a
+href="https://hyperdata.it/xmlns/project/index.htm">vocab</a> designed
+for describing projects</li>
+<li>Channels - for RSS feeds</li>
+<li>Vocabs - for RDFS</li>
+<li>Commands - an interpreter (I forget what I used for this, may have
+been an ad hoc DSL or some standard language interpreter)</li>
+<li>Settings</li>
+</ul>
+<h2 id="lessons">Lessons</h2>
+<p>scope drift</p>
+<p>too generic</p>
+<h2 id="decoupling">Decoupling</h2>
+<ul>
+<li><p><a href="https://github.com/danja/Gradino">Gradino</a> :
+RDF-backed blog engine, Java/Scala (retired)</p></li>
+<li><p><a href="https://github.com/danja/seki">Seki</a> :
+(retired)</p></li>
+<li><p><a href="https://github.com/danja/Scute">Scute</a> : a Semantic
+Web hacking tool, desktop Java (retired)</p></li>
+</ul>
+<h2 id="components">Components</h2>
+<ul>
+<li><a href="https://github.com/danja/NewsMonitor">NewMonitor</a> :
+quasi-intelligent feedreader/aggregator, Java backend</li>
+<li><a href="https://github.com/danja/foowiki">FooWiki</a> : a
+browser-based, SPARQL Server-backed Wiki</li>
+</ul>
+<ul>
+<li><a href="https://github.com/danja/thiki">Thiki</a> : RDF-backed
+personal Wiki for Android devices</li>
+</ul>
+<ul>
+<li><a href="https://github.com/danja/foolicious">Foolicious</a> : a
+SPARQL-backed bookmark manager (del.icio.us clone)</li>
+</ul>
+<ul>
+<li><a href="https://github.com/danja/sparqlpress2">SparqlPress</a></li>
+<li><a href="https://github.com/danja/trellis">Trellis</a> :
+SPARQL-backed hierarchical to-do list</li>
+<li><a href="https://github.com/danja/schema-editor">Schema Editor</a> :
+browser-based RDF schema authoring tool</li>
+<li><a href="https://github.com/danja/Diced">Diced</a></li>
+</ul>
+<p><a href="https://github.com/danja/sparql-diamonds">SPARQL
+Diamonds</a></p>
+<p>demos : <a
+href="https://hyperdata.it/sparql-diamonds/">https://hyperdata.it/sparql-diamonds/</a></p>
+<p>link scraper - PWA</p>
+<p>markdown</p>
+<p>mobile</p>
+<h2 id="current-and-future-directions">Current (and Future)
+Directions</h2>
+<p>Bookmark manager : the one in eg. Chrome browser is absolutely
+hopeless</p>
