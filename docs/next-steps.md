@@ -14,6 +14,8 @@
 
 * Solid
 
+* move the descriptions on the HKMS page to use data from store a la gloss
+
 ## FooWiki
 
 * refactor!

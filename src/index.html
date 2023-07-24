@@ -12,45 +12,53 @@
 <body>
     <script id="replace_with_navbar" src="/share/nav.js"></script>
     <h1>Hyperdata Knowledge Management System</h1>
-    <p>A set of <a href="https://en.wikipedia.org/wiki/Linked_data">Linked Data</a>-oriented browser apps.</p>
-
-    <p>It's a one-person effort by me, <a href="https://danny.ayers.name/">Danny Ayers</a>, though totally sitting on
-        the shoulders of giants. It has quite a long history.</p>
 
 
-    Mostly backed
-    by a <a href="https://en.wikipedia.org/wiki/SPARQL">SPARQL store.</a></p>
+    <section class="three-column">
+        <div>
+            <p>A set of <a href="https://en.wikipedia.org/wiki/Linked_data">Linked Data</a>-oriented browser apps.</p>
 
-    # Farelo
+            <p>It's a one-person effort by me, <a href="https://danny.ayers.name/">Danny Ayers</a>, though totally
+                sitting on
+                the shoulders of giants. It has quite a long <a href="https://hyperdata.it/history.html">history</a>.
+            </p>
 
-    * [JupyterLite](https://hyperdata.it/farelo/jupyterlite/j/lab/index.html)
-    * [TurtleEditor](https://hyperdata.it/farelo/src/TurtleEditor/)
-    * [Fuseki](http://hyperdata.it:3030)
-    * ([Gitea](http://hyperdata.it:3000/) - not yet used)
+            <p>By expressing the data in RDF and interacting with an <a
+                    href="https://en.wikipedia.org/wiki/SPARQL">SPARQL
+                    store</a> (I'm using Fuseki) the same underlying data (and potentially any other Linked Data) can be
+                used
+                across many different user interfaces. </p>
 
-    *(Italian for 'do it', pronounced 'far-e-lo')*
+            <p>The knowledge management system I want is one that will directly help my projects. Simple version - I
+                have a todo
+                list. Each item has resources associated with it that are only a click away.</p>
+            <p>The links in the navigation bar above are things that I'm developing and/or using.</p>
+            <ul>
+                <li><a href="/foowiki/">FooWiki</a> - A wiki. But I've been using Joplin (and before that Obsidian),
+                    things will
+                    be changing a little </li>
+                <li><a href="/trellis">Trellis</a> - hierarchical lists. </li>
+                <li><a href="/farelo/src/TurtleEditor/">TurtleEditor</a> - low-level editing of the data, with node and
+                    arc
+                    graph visualization (I found it abandoned on GitHub)</li>
+                <li><a href="/farelo/jupyterlite/j/lab/index.html">jupyterlite</a> - that Jupyter. Is plenty to do
+                    sandboxed
+                    coding experiments</li>
+                <li><a href="/foowiki/gloss">Gloss</a> - this will be an AI glossary. But the motivation is mostly to
+                    get
+                    FooWiki code to do something a bit different, meanwhile I update the code</li>
+                <li><a href="/foolicious">foolicious</a> - doesn't look like I've got what I thought I had, but this
+                    will be a
+                    URL bookmarker that scrapes a bit of info from the target docs</li>
+            </ul>
+        </div>
 
-    This is the *Getting Things Done* part of [HKMS](https://github.com/danja/HKMS). The first major goal will be to
-    build an Android app (probably named [Diced](https://github.com/danja/diced)). This is in-progress, using
-    [Thiki](https://github.com/danja/thiki) as a starting point.
+        <div>
+            <div id="editor"></div>
 
-    A lot of the necessary dev is data wrangling so I've put versions of the utilities above online. I'm also tweaking
-    those as I go along.
-
-    <ul>
-        <li><a href="/" class="here">Home</a></li>
-        <li><a href="https://hyperdata.it/blog" class="here">Blog</a></li>
-        <li><a href="https://elfquake.wordpress.com/" class="here">ELFQuake</a></li>
-        <li><a href="/foowiki/">FooWiki</a></li>
-        <li><a href="/trellis">Trellis</a></li>
-        <li><a href="/farelo/src/TurtleEditor/">TurtleEditor</a></li>
-        <li><a href="/farelo/jupyterlite/j/lab/index.html">jupyterlite</a></li>
-        <li><a href="/foowiki/gloss">Gloss</a></li>
-        <li><a href="/foolicious">foolicious</a></li>
-        <li style="float:right"><a href="https://github.com/danja/HKMS">GitHub</a></li>
-    </ul>
-
-
+            <script src="ye.js"></script>
+        </div>
+    </section>
 
 </body>
 
