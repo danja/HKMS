@@ -1,5 +1,7 @@
 # ToDo
 
+* check mobile support of codemirror
+
 ## HKMS
 
 * Icon
@@ -15,6 +17,8 @@
 * Solid
 
 * move the descriptions on the HKMS page to use data from store a la gloss
+
+* allow building of templates inside foowiki - plugin system
 
 ## FooWiki
 
@@ -62,6 +66,13 @@ https://hyperdata.it/gloss
 
 * responsive - CSS
 * Attach to store
+
+## Comms
+
+* https://github.com/syumai/sandboxed-eval
+
+
+
 
 ## Jupyter
 
