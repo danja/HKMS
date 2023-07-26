@@ -20,6 +20,8 @@
 
 * allow building of templates inside foowiki - plugin system
 
+* fix up utilities - echo etc
+
 ## FooWiki
 
 * refactor!
