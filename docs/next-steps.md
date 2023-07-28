@@ -2,6 +2,10 @@
 
 * check mobile support of codemirror
 
+* y-mirror + Cypress, get going cross-browser
+
+* plug y-mirror into gloss, Cypress into FooWiki 
+
 ## HKMS
 
 * Icon
