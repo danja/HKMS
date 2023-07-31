@@ -6,6 +6,8 @@
 
 * plug y-mirror into gloss, Cypress into FooWiki 
 
+gloss - italian
+
 ## HKMS
 
 * Icon
@@ -20,11 +22,15 @@
 
 * Solid
 
+* user management - LDAP?
+
 * move the descriptions on the HKMS page to use data from store a la gloss
 
 * allow building of templates inside foowiki - plugin system
 
 * fix up utilities - echo etc
+
+* sync md content to fs/files?
 
 ## FooWiki
 

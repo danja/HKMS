@@ -72,8 +72,9 @@ img {
 	flex: 1;
 	/* border: 1px solid; */
 	display: flex;
-	flex-direction: column-reverse;
-	justify-content: flex-end;
+	flex-direction: column;
+	/* 	flex-direction: column-reverse; */
+	justify-content: flex-start;
 	/*	text-align: center; */
 }
 
