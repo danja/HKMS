@@ -3,6 +3,11 @@
  /var/www/html  is
 https://github.com/danja/hyperdata-static.git
 
+local
+ /var/www/html/__HKMS__ -> /home/danny/HKMS/HKMS/src/
+
+
+
 ## Apps
 
 			

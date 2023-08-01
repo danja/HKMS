@@ -8,6 +8,8 @@
 
 gloss - italian
 
+vocab - tidy with ChatGPT
+
 ## HKMS
 
 * Icon
@@ -77,7 +79,7 @@ https://hyperdata.it/gloss
 ## Turtle Editor
 
 * responsive - CSS
-* Attach to store
+* Attach to store - choose endpoint, graphname, focus node 
 
 ## Comms
 
