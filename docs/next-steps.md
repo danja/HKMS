@@ -1,50 +1,64 @@
 # ToDo
 
-* check mobile support of codemirror
+- check mobile support of codemirror
 
-* y-mirror + Cypress, get going cross-browser
+- y-mirror + Cypress, get going cross-browser
 
-* plug y-mirror into gloss, Cypress into FooWiki 
+- plug y-mirror into gloss, Cypress into FooWiki
 
 gloss - italian
 
 vocab - tidy with ChatGPT
 
+blog engine
+
+## NewsMonitor
+
+- check config is coming from text file
+
+* translate posts to markdown
+
+- secure updates
+
+* ping Marshall - ask for list of feeds, explain danny hobby, also data source, tell him it may be a useful source, uncurated, he could even put a page on aiTTENTION that pulls from the same data, filtered it as he wants - when it's more stable!
+
+https://aittention.beehiiv.com/p/busy-ai-day-chatgpt-power-tip-darpa-un-hybrid-ai-81023
+
 ## HKMS
 
-* Icon
+- Icon
 
-* Index/explanation page
+- Index/explanation page
 
-* Describe HKMS in new store, attach to apps
+- Describe HKMS in new store, attach to apps
 
-* Describe ELFQuake
+- Describe ELFQuake
 
-* get NewsMonitor running
+- get NewsMonitor running
 
-* Solid
+- Solid
 
-* user management - LDAP?
+- user management - LDAP?
 
-* move the descriptions on the HKMS page to use data from store a la gloss
+- move the descriptions on the HKMS page to use data from store a la gloss
 
-* allow building of templates inside foowiki - plugin system
+- allow building of templates inside foowiki - plugin system
 
-* fix up utilities - echo etc
+- fix up utilities - echo etc
 
-* sync md content to fs/files?
+- sync md content to fs/files?
 
 ## FooWiki
 
-* refactor!
+- refactor!
 
 There's repetition in the method calling flow, must be refactorable, pass function names
 
 https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
 
-* remove jQuery
+- remove jQuery
 
-Template literals 
+Template literals
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
 https://dev.to/rfornal/-replacing-jquery-with-vanilla-javascript-1k2g
 https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
@@ -54,11 +68,11 @@ https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
 
     * codemirror (y.js)
 
-* put navbar in other pages
+- put navbar in other pages
 
 ## Gloss
 
-* index
+- index
 
 render to PDF
 
@@ -66,27 +80,22 @@ next & previous
 
 https://hyperdata.it/gloss
 
-
-
 ## Foolicious
 
-* basic link list
+- basic link list
 
 ## Trellis
 
-* Trellis CSS - especially mobile
+- Trellis CSS - especially mobile
 
 ## Turtle Editor
 
-* responsive - CSS
-* Attach to store - choose endpoint, graphname, focus node 
+- responsive - CSS
+- Attach to store - choose endpoint, graphname, focus node
 
 ## Comms
 
-* https://github.com/syumai/sandboxed-eval
-
-
-
+- https://github.com/syumai/sandboxed-eval
 
 ## Jupyter
 
@@ -96,6 +105,5 @@ add nav bar?
 
 # Done
 
-* sort out symlinks!!!
-* NAVBAR on hkms/
-
+- sort out symlinks!!!
+- NAVBAR on hkms/
