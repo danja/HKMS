@@ -75,28 +75,16 @@ too generic
 
 ## Components
 
-- [NewMonitor](https://github.com/danja/NewsMonitor) : quasi-intelligent feedreader/aggregator, Java backend
+- [NewsMonitor](https://github.com/danja/NewsMonitor) : quasi-intelligent headless feedreader/aggregator
 - [FooWiki](https://github.com/danja/foowiki) : a browser-based, SPARQL Server-backed Wiki
-
-* [Thiki](https://github.com/danja/thiki) : RDF-backed personal Wiki for Android devices
-
+- [Thiki](https://github.com/danja/thiki) : RDF-backed personal Wiki for Android devices
 - [Foolicious](https://github.com/danja/foolicious) : a SPARQL-backed bookmark manager (del.icio.us clone)
+- [SparqlPress](https://github.com/danja/sparqlpress2)
+- [Trellis](https://github.com/danja/trellis) : SPARQL-backed hierarchical to-do list
+- [Schema Editor](https://github.com/danja/schema-editor) : browser-based RDF schema authoring tool
+- [Diced](https://github.com/danja/Diced) - Getting Things Done with dice
 
-* [SparqlPress](https://github.com/danja/sparqlpress2)
-* [Trellis](https://github.com/danja/trellis) : SPARQL-backed hierarchical to-do list
-* [Schema Editor](https://github.com/danja/schema-editor) : browser-based RDF schema authoring tool
-* [Diced](https://github.com/danja/Diced)
-
-[SPARQL Diamonds](https://github.com/danja/sparql-diamonds)
-
-demos :
-https://hyperdata.it/sparql-diamonds/
-
-link scraper - PWA
-
-markdown
-
-mobile
+**[SPARQL Diamonds](https://hyperdata.it/sparql-diamonds/)** ([github](https://github.com/danja/sparql-diamonds)) is an architectural pattern that arose from working on these I'm now trying to use consistently across all the above.
 
 ## Current (and Future) Directions
 
