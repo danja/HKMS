@@ -14,11 +14,17 @@ blog engine
 
 ## NewsMonitor
 
+- follow 300s
+
+* translate posts to markdown - check server cleansing, update client
+
 - check config is coming from text file
 
-* translate posts to markdown
+¯ batch add feeds (for me)
 
 - secure updates
+
+- update libs
 
 * ping Marshall - ask for list of feeds, explain danny hobby, also data source, tell him it may be a useful source, uncurated, he could even put a page on aiTTENTION that pulls from the same data, filtered it as he wants - when it's more stable!
 
