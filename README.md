@@ -32,7 +32,7 @@ The reason this even remotely possible was that all of these things could share 
 
 ### The Data Model
 
-_A little personal history to give the above context. I'd been interested in AI since seeing_ [2001 A Space Odyssey](<https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)>) _as a kid, reading Asimov books. I got into electronics and computing as a teenager._ _My first computer was a [Commodore PET](https://en.wikipedia.org/wiki/Commodore_PET) on which I first played with AI : a Tick-Tack-Toe (Noughts & Crosses) player from a magazine. Years later, at university, I took modules in neural nets and expert systems._ _Later still, I got online and had a day job at a college that included looking after the network, user support, database admin etc. But it did give me machines to play with_
+_A little personal history to give the above context. I'd been interested in AI since seeing_ [2001 A Space Odyssey](<https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)>) _as a kid, reading Asimov books. I got into electronics and computing as a teenager._ _My first computer was a [Commodore PET](https://en.wikipedia.org/wiki/Commodore_PET) on which I first played with AI : a Tick-Tack-Toe (Noughts & Crosses) player, typed in from a magazine. Years later, at university, I took modules in neural nets and expert systems._ _Later still, I got online and had a day job at a college that included looking after the network, user support, database admin etc. But it did give me machines to play with_
 
 _Around 1999 I stumbled upon RDF. This seemed to connect the dots between the interesting AI bits (for me at the time) and the Web. At the time I was clueless at both ends, but the rdf-dev mailing list was very friendly, and I gradually picked bits up._
 
