@@ -1,5 +1,9 @@
 # ToDo
 
+https://web.archive.org/web/20030210234830/http://www.citnames.com/
+
+https://github.com/danja/dork
+
 - check mobile support of codemirror
 
 - y-mirror + Cypress, get going cross-browser
@@ -13,6 +17,24 @@ vocab - tidy with ChatGPT
 blog engine
 
 ## NewsMonitor
+
+Grumpy Badger
+@GrumpyBadger5
+·
+Aug 14
+Tests
+
+Ask yoursely why you're doing this and what you want to get out of it.
+
+Read Martin Fowler's Refactoring (again)
+
+If it works, provably works, and change doesn't deliver a tangible benefit, don't change it.
+
+Pete ⧖
+@pete23com
+·
+Aug 14
+I’d probably start by building it and running it, running tests, profiling it (I tend to use execution stats to guide code archaeology « what is it actually running? »).
 
 - follow 300s
 
