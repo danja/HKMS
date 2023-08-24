@@ -16,6 +16,10 @@ vocab - tidy with ChatGPT
 
 blog engine
 
+Use HKMS to build a multi-modal Wiki!!!
+
+Plocs-style rendering
+
 ## NewsMonitor
 
 Grumpy Badger
