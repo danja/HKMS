@@ -16,9 +16,13 @@ vocab - tidy with ChatGPT
 
 blog engine
 
-Use HKMS to build a multi-modal Wiki!!!
+Use HKMS to build a multi-modal Wiki!!! (what did I mean?)
 
 Plocs-style rendering
+
+foolicious/gnamgnam - prime store with DMOZ data, cleaned & modified. SKOS for category relations?
+
+for farelo - grading system for done work/estimates, like climbing : technical 1 tedium 3 time 2
 
 ## NewsMonitor
 
